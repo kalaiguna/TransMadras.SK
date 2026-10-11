@@ -65,8 +65,8 @@
 	<footer>
 		<p>
 			Core transliteration by <strong>C. Gunasekaran</strong> (2007) ·
-			<a href="https://github.com/kalaiguna/TransMadras.NET" target="_blank" rel="noopener">
-				TransMadras.NET
+			<a href="https://github.com/kalaiguna/TransMadras.SK" target="_blank" rel="noopener">
+				TransMadras.SK
 			</a>
 		</p>
 	</footer>
